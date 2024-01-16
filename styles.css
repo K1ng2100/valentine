@@ -2,10 +2,6 @@ body{
 background-color: #b31f3f;
 }
 .container {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    gap: 10px;
-    grid-auto-rows: minmax(100px, auto)
     text-align: center;
     font-family: 'Helvetica', sans-serif;
     background-color: #f5f5f5;
